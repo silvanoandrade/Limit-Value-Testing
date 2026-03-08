@@ -58,17 +58,6 @@ Entering a value just above the maximum limit.
 Entering a valid value within the accepted range.
 
 These scenarios help verify that the system properly validates user input and enforces the defined limits.
-
-Project Structure
-
-/qa-limit-value-testing
-
-├── Limit Analysis
-│   Definition of minimum and maximum limits
-│
-├── Test Cases
-│   Test scenarios designed around system limits
-
   
 
 QA Process Applied
