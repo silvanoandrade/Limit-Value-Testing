@@ -62,16 +62,14 @@ These scenarios help verify that the system properly validates user input and en
 Project Structure
 
 /qa-limit-value-testing
-│
+
 ├── Limit Analysis
 │   Definition of minimum and maximum limits
 │
 ├── Test Cases
 │   Test scenarios designed around system limits
-│
-└── README.md
 
-    Project documentation
+  
 
 QA Process Applied
 
